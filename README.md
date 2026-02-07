@@ -14,20 +14,28 @@ A simple, fast, and responsive calculator application built with **React** and *
 * [Tailwind CSS](https://tailwindcss.com/)
 * Sass
 
-## 💻 How to Run (Local)
+## 🚀 Getting Started
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/username/calculator-app.git](https://github.com/username/calculator-app.git)
-   cd calculator-app
-2. **Install dependencies:**
-   ```bash
-   npm install
-2. **Run the app:**
-   ```bash
-   npm run dev
+### 1. Clone the repository
 
-## 🌐 Deployment
-**Build Command:**
-   ```bash
-   npm run build
+```bash
+git clone https://github.com/iqoqacola/calculator-app.git
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Run development server
+
+```bash
+npm run dev
+```
+
+### 4. Build for production
+
+```bash
+npm run build
+```
